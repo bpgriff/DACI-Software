@@ -1,0 +1,11 @@
+Laboratory #1 /
+1 - Connect V1 power supply to voltage measurements     /
+2 - Connect R1 to voltage measurement
+3 - Connect r2 to voltage measurement
+4 - Connect r3 to voltage measurement
+5 - Disconnect r1 from voltage measurement
+6- Connect r4 to voltage measurement
+7 - 
+8 - 
+9 - 
+10 - 
