@@ -1,6 +1,6 @@
 QT       += core gui
 
-greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+greaterThan(QT_MAJOR_VERSION, 4): QT += widgets printsupport
 
 CONFIG += c++17
 
@@ -10,10 +10,16 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    qcustomplot-source/qcustomplot.cpp \
+    savedata.cpp \
+    testinput.cpp
 
 HEADERS += \
-    mainwindow.h
+    mainwindow.h \
+    qcustomplot-source/qcustomplot.h \
+    savedata.h \
+    testinput.h
 
 FORMS += \
     mainwindow.ui
